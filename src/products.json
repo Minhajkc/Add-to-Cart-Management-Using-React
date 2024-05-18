@@ -1,0 +1,37 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "iPhone 13",
+        "brand": "Apple",
+        "price": 999,
+        "description": "The latest iPhone with A15 Bionic chip and dual-camera system display.",
+        "image": "https://www.reliancedigital.in/medias/Apple-MLPG3HN-A-SmartPhones-491997700-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyOTYwODF8aW1hZ2UvanBlZ3xpbWFnZXMvaGRjL2hkZC85ODc4MDg5NzYwNzk4LmpwZ3xjMmYzNDhlYzg1YmI0ZTc3MjE0MjMxZWM5Mzg4YzQ1OTMzNTBjZTg4ZTBmYWMxOTY1MGY3ODdiYTEwN2U3NDM0"
+      },
+      {
+        "id": 2,
+        "name": "Samsung Galaxy S21",
+        "brand": "Samsung",
+        "price": 799,
+        "description": "Powerful Android smartphone with Exynos 2100 processor and 120Hz display.",
+        "image": "https://cdn.alloallo.media/catalog/product/samsung/galaxy-s/galaxy-s21/galaxy-s21-phantom-white.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Google Pixel 6",
+        "brand": "Google",
+        "price": 699,
+        "description": "Flagship Pixel phone with Tensor chip and incredible camera capabilities.",
+        "image": "https://images-cdn.ubuy.co.in/659bc2f83bc731093506c259-google-pixel-6-128gb-gb7n6-factory.jpg"
+      },
+      {
+        "id": 4,
+        "name": "OnePlus 9 Pro",
+        "brand": "OnePlus",
+        "price": 899,
+        "description": "Premium Android flagship with Snapdragon 888 processor and Hasselblad camera.",
+        "image": "https://indiansales.co.in/wp-content/uploads/2022/09/1-38.jpg"
+      }
+    ]
+  }
+  
